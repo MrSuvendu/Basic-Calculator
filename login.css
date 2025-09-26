@@ -14,8 +14,16 @@ body {
     justify-content: center;
     align-items: center;
 }
+.back-btn {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    height: 40px;
+    width: 150px;
+    background-color: beige;
+    border-radius: 10px;
 
-/* Container */
+}
 .container {
     background: #fff;
     padding: 40px 30px;
